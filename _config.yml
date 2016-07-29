@@ -1,4 +1,3 @@
-layout_spectrum: 0.8097528489306569
 typography_spectrum: 0.8221650281921029
 color:
   brandStrength: 0.7461785622872412
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.8097528489306569
 name: RB Visuals
 title: Film & Photo
+description: visualise and realise
