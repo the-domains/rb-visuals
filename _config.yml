@@ -6,9 +6,9 @@ color:
   saturation: 0.6880347656551749
   rhythmicContrast: 0.43896027957089245
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#000000'
+    - '#A67560'
+    - '#7D5442'
+    - '#FFF8EF'
+    - '#E5BDAA'
 name: RB Visuals
